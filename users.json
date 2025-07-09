@@ -1,0 +1,12 @@
+{
+    "Lourina": {
+        "password": "12349",
+        "trusted_locations": [
+            "New York, United States",
+            "Cairo, EG"
+        ],
+        "email": "lourinaemil2@gmail.com",
+        "otp": 708339,
+        "otp_expiry": 1751703830.0839965
+    }
+}
