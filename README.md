@@ -23,6 +23,7 @@ It enhances login security by combining password-based login, IP-based location 
 - **Location API**: ipinfo.io (via `requests`)
 - **Session & Security**: Flask session management
 - **Storage**: JSON (for users and trusted locations)
+- **Security:** `.env` file for protecting email credentials
 
 ---
 
